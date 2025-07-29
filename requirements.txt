@@ -47,7 +47,6 @@ sqlparse==0.5.3
 starlette==0.26.1
 tomli==2.0.1
 tomlkit==0.11.7
-typing_extensions==4.5.0
 urllib3==2.1.0
 uvicorn==0.21.1
 wrapt==1.15.0
